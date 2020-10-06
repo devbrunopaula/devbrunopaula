@@ -22,6 +22,6 @@ I'm a [Full Stack students at Lambda School](https://) focusing on frontend and 
 - 👯 I’m looking looking for
 - 🤔 I’m looking for help with youtube/site redesign
 - 💬 Ask me about React
-- 📫 How to reach me: `swyx at hey dot com`
+- 📫 How to reach me: `devbrunopaula@gmail.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I always want to learn more and push my self to the max...
