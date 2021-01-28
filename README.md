@@ -15,7 +15,7 @@
 
 ---
 
-I'm a [Full Stack students at Lambda School](https://) focusing on frontend and serverless web applications..
+I'm a [Full Stack student](https://) focusing on frontend and serverless web applications..
 
 - 🔭 I’m currently working on Backend with Express
 - 🌱 Next study Path [learning AWS](https://devbrunopaula/writing/hello-aws/)
