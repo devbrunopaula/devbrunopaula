@@ -34,5 +34,5 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
 <a href="https://www.linkedin.com/in/bruno-paula" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620762297~hmac=45635d3ca3dce0b739f40c92f9114bcc" alt="https://www.linkedin.com/in/bruno-paula" height="30" width="40" /></a>
 </p>
 <p>
-<a href="https://twitter.com/devbrunopaula" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1620762447~hmac=4f8ca87259a1eebd5c74c28515237abe" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/devbrunopaula" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="twitter" height="40" width="40" /></a>
 </p>
