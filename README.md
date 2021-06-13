@@ -1,17 +1,18 @@
-<!--<h3 align="center">
-![image](https://github.com/devbrunopaula/devbrunopaula/blob/main/hello-bruno.gif.png)
-</h3> -->
 
 [![image](https://github.com/devbrunopaula/devbrunopaula/blob/main/hello-bruno.gif?raw=true)](https://github.com/devbrunopaula?tab=repositories)
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=devbrunopaula"><img src="https://img.shields.io/twitter/follow/swyx?label=%40devbrunopaula&style=social"></a>  •
+<div align="center">
+    
   <a href="https://devbrunopaula">Blog</a> •
   <a href="https://twitter.com/intent/follow?screen_name=devbrunopaula">Twitter</a> •
   <a href="https://github.com/devbrunopaula/README">Work README</a> •
   <a href="https://devbrunopaula">Books</a>
-</p>
+  <div> 
+  <span align=center> <img src="https://komarev.com/ghpvc/?username=devbrunopaula" alt="profile views">  
+  <a href="https://twitter.com/intent/follow?screen_name=devbrunopaula"><img src="https://img.shields.io/twitter/follow/swyx?label=%40devbrunopaula&style=social"></a></span>
+  </div>
+</div>
+
 
 ---
 
@@ -35,8 +36,9 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bruno-paula" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620762297~hmac=45635d3ca3dce0b739f40c92f9114bcc" alt="https://www.linkedin.com/in/bruno-paula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bruno-paula" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg" alt="https://www.linkedin.com/in/bruno-paula" height="30"" /></a>
 </p>
 <p>
 <a href="https://twitter.com/devbrunopaula" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="twitter" height="40" width="40" /></a>
+  <a href="https://brunopaula.com" target="blank"><img align="center" src="https://img.icons8.com/carbon-copy/2x/domain.png" alt="My Portfolio" height="40"  /></a>
 </p>
