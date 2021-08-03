@@ -18,7 +18,7 @@
 
 I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serverless web applications..
 
-- 🔭 I’m currently working on Next JS
+- 🔭 I’m currently working on Blue Witness Humans Rights
 - 🌱 Next study Path [learning AWS](https://devbrunopaula/writing/hello-aws/)
 - 👯 I’m looking looking for Full Stack Positions
 - 🤔 I’m looking for help With React Native / Fluter
