@@ -18,12 +18,13 @@
 
 I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serverless web applications..
 
-- 🔭 I’m currently working on Blue Witness Humans Rights
-- 🌱 Next study Path [learning AWS](https://devbrunopaula/writing/hello-aws/)
+- 🔭 I’m currently working as a Backend Developer for [Blue Witness Humans Rights](https://a.humanrightsfirst.dev/)
+- 🌱 Next study Path [Next JS](https://nextjs.org/)
 - 👯 I’m looking looking for Full Stack Positions
 - 🤔 I’m looking for help With React Native / Fluter
 - 💬 Ask me about React
 - 📫 How to reach me: `devbrunopaula@gmail.com`
+- 👨‍💻 [My Resume](https://github.com/devbrunopaula/devbrunopaula/files/6965418/Front.End.Developer.2.pdf)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I always want to learn more and push my self to the max...
 
@@ -42,3 +43,13 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
 <a href="https://twitter.com/devbrunopaula" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="twitter" height="40" width="40" /></a>
   <a href="https://brunopaula.com" target="blank"><img align="center" src="https://img.icons8.com/carbon-copy/2x/domain.png" alt="My Portfolio" height="40"  /></a>
 </p>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
