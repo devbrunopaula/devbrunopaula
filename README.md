@@ -20,7 +20,7 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
 
 - 🔭 I’m currently working as a Backend Developer for [Blue Witness Humans Rights](https://a.humanrightsfirst.dev/)
 - 🌱 Next study Path [Next JS](https://nextjs.org/)
-- 👯 I’m looking looking for Full Stack Positions
+- 👯 I’m looking looking for Front-End Positions
 - 🤔 I’m looking for help With React Native / Fluter
 - 💬 Ask me about React
 - 📫 How to reach me: `devbrunopaula@gmail.com`
