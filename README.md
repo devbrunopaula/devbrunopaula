@@ -24,7 +24,7 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
 - 🤔 I’m looking for help With React Native / Fluter
 - 💬 Ask me about React
 - 📫 How to reach me: `devbrunopaula@gmail.com`
-- 👨‍💻 [My Resume](https://github.com/devbrunopaula/devbrunopaula/files/6965443/Nielson.Bruno.Paula.Resume.pdf)
+- 👨‍💻 [My Resume](https://github.com/devbrunopaula/devbrunopaula/files/6985665/Nielson.Bruno.Paula.-.Resume.pdf)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I always want to learn more and push my self to the max...
 
@@ -53,4 +53,5 @@ I'm a [Full Stack student](https://brunopaula.com) focusing on frontend and serv
     
     
     
+
     
