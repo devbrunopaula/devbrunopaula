@@ -24,7 +24,7 @@ I'm a [software engineer](https://brunopaula.com) focusing on web frontend and s
 - 🤔 I’m looking for help With React Native / Fluter
 - 💬 Ask me about React
 - 📫 How to reach me: `devbrunopaula@gmail.com`
-- 👨‍💻 [My Resume](https://github.com/devbrunopaula/devbrunopaula/files/7023476/Nielson-Bruno.Paula-Resume.pdf)
+- 👨‍💻 Bulding a eCommerce using Next Js
 - 😄 Life is not always perfect. Like a road, it has many bends, ups and down, but that’s its beauty.
 - ⚡ Fun fact: I always want to learn more and push my self to the max...
 - 
